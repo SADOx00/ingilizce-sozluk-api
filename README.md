@@ -1,6 +1,6 @@
 # İngilizce sözlükten veri çekme
 
-Bu uygulamada ister terminalden kelime yazarak anlamını çekebilirsiniz ister API yi çalıştırır istek atarsınız terchih ben ikisinide açıklyacağim
+Bu uygulamada ister terminalden kelime yazarak anlamını çekebilirsiniz ister API yi çalıştırır istek atarsınız tercih sizin ben ikisinide açıklyacağim
 
 ## Kurulum
 
